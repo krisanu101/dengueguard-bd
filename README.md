@@ -48,7 +48,6 @@ dengueguard-bd/
 │   ├── feature_list.joblib         # Feature list used by the model
 │   ├── best_model_name.joblib      # Name of the best model
 │   └── results.json                # All models' metrics
-├── notebook/
 │   └── DengueGuard_BD.ipynb   # Full analysis notebook (Colab-ready)
 └── assets/                    # Saved plots (EDA, confusion matrices, ROC, etc.)
 ```
