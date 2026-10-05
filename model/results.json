@@ -1,0 +1,89 @@
+{
+  "screening": {
+    "results": {
+      "Logistic Regression": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      },
+      "Random Forest": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      },
+      "XGBoost (HistGB fallback)": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      }
+    },
+    "best_model": "Logistic Regression",
+    "features": [
+      "Age",
+      "Fever_Duration",
+      "Body_Temperature",
+      "Platelet_Count",
+      "WBC_Count",
+      "Headache",
+      "Retro_Orbital_Pain",
+      "Myalgia",
+      "Rash",
+      "Gender",
+      "Area",
+      "AreaType",
+      "HouseType",
+      "Joint_Pain"
+    ]
+  },
+  "full": {
+    "results": {
+      "Logistic Regression": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      },
+      "Random Forest": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      },
+      "XGBoost (HistGB fallback)": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      }
+    },
+    "best_model": "Logistic Regression",
+    "features": [
+      "Age",
+      "Fever_Duration",
+      "Body_Temperature",
+      "Platelet_Count",
+      "WBC_Count",
+      "Headache",
+      "Retro_Orbital_Pain",
+      "Myalgia",
+      "Rash",
+      "Gender",
+      "Area",
+      "AreaType",
+      "HouseType",
+      "Joint_Pain",
+      "NS1",
+      "IgG",
+      "IgM"
+    ]
+  }
+}
